@@ -1,3 +1,10 @@
+body{
+   color: white;
+   background: black;
+   font-family: "DM Serif Display", serif;
+   margin: 88px;
+   margin-bottom: 100px;
+}
 .chamada{
    background: rgb(rgb(248, 210, 210);
    margin-top: 80px;
